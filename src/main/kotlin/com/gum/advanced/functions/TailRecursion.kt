@@ -1,4 +1,4 @@
-package com.gum.functions
+package com.gum.advanced.functions
 
 fun factorial(number: Int): Int {
     when (number) {

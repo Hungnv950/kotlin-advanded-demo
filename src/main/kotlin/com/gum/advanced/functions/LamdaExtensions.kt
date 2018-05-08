@@ -1,4 +1,4 @@
-package com.gum.functions
+package com.gum.advanced.functions
 
 class Request(val method: String, val query: String, val contentType: String)
 class Responne(var content: String, var status: Status) {

@@ -1,4 +1,4 @@
-package com.gum.functions
+package com.gum.advanced.functions
 
 inline fun <T> Iterable<T>.myForEach(action: (T) -> Unit): Unit {
     for (element in this) action(element)

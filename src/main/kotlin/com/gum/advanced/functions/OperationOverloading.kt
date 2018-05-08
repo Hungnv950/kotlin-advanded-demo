@@ -1,4 +1,4 @@
-package com.gum.functions
+package com.gum.advanced.functions
 
  data class Time(val h: Int, val m: Int) {
     operator fun plus(time: Time): Time {

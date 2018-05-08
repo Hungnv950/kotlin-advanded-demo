@@ -1,4 +1,4 @@
-package com.gum.functions
+package com.gum.advanced.functions
 
 inline  fun op(x: Int) {
     println("op")
